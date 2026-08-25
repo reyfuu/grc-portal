@@ -1,0 +1,4 @@
+/bin/
+web/node_modules/
+# built frontend is embedded at build time via `make build`
+internal/web/dist/assets/
